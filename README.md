@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaron-smith-ux
 - 👀 I’m interested in learning 
-- 🌱 I’m currently learning git and python
+- 🌱 I’m currently learning git and web developement
 - 💞️ I’m looking to collaborate on work
 - 📫 How to reach me aaronandrewsmiith@gmail.com
 - 😄 Pronouns: I am announced Aaron
