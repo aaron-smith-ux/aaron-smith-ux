@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @aaron-smith-ux
-- 👀 I’m interested in learning 
-- 🌱 I’m currently learning git and web developement
-- 💞️ I’m looking to collaborate on work
+- 👀 I’m interested in directing my life in the work of knowledge and self developement. 
+- 🌱 I’m currently a drop of water in the vast ocean of life. 
+- 💞️ I’m looking to collaborate with anyone that will share a bit of themselves. 
 - 📫 How to reach me aaronandrewsmiith@gmail.com
-- 😄 Pronouns: I am announced Aaron
 - ⚡ Fun fact: No proof is evidence enough of the truth.
 
 <!---
